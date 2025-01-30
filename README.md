@@ -1,17 +1,17 @@
 # TecProgrammer-CH340C V2.0
 Compact USB-C to Serial (UART) adapter with 3.3V/5V logic selection, ideal for microcontroller programming and debugging.
 
-![STM32f103Cxxx DevBoard](https://github.com/Tecfield-SIA/TecProgrammer-CH340C/blob/main/Images/TecProgrammer.gif)
+![TecProgrammer-CH340C](https://github.com/Tecfield-SIA/TecProgrammer-CH340C/blob/main/Images/TecProgrammer.gif)
 
 ________________________________________
 
-### Overview
+## Overview
 
 TecProgrammer-CH340C V2.0 is a compact and versatile USB-to-Serial (UART) adapter designed for seamless communication between computers and microcontroller-based projects. This board is ideal for reading UART protocols, debugging embedded systems, and programming microcontrollers.
 
 ________________________________________
 
-### Features
+## Features
 
 __Compact Design:__
 - Measuring only 38mm × 22mm, making it highly portable.
@@ -51,7 +51,7 @@ __Open-Source Hardware:__
 
 ________________________________________
 
-### Future Improvements
+## Future Improvements
 __Zener Diode Protection:__ 
 - The next revision will incorporate a 5.6V Zener diode for enhanced input protection.
   
@@ -60,34 +60,38 @@ __ESP32 Auto-Programming Circuit:__
 
 ________________________________________
 
-### Supported Baud Rates
+## Supported Baud Rates
 - The CH340C chip supports baud rates up to 2 Mbps, ensuring high-speed communication.
 
 ________________________________________
 
-### Licensing
+## Licensing
 - This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
 
 ________________________________________
 
-Getting Started
+## Getting Started
 1.	Connect the board to your computer via USB-C.
 2.	Select the voltage level (3.3V or 5V) using the onboard switch.
 3.	Connect TX, RX, and GND to your microcontroller.
 4.	Install CH340C drivers (if required for Windows users).
 5.	Begin debugging or programming your microcontroller.
 
-Repository Contents
-•	Hardware Design Files
-•	Schematic Diagrams
-•	PCB Layout Files
+________________________________________
 
-Contributing
+## Contributing
+
 Contributions are welcome! Feel free to submit pull requests or report issues.
-Contact
+
+__Contact__
+
 For questions or discussions, feel free to open an issue or reach out via LinkedIn or email me at Tecfield@live.com.
 
+![TecProgrammer-CH340C](https://github.com/Tecfield-SIA/TecProgrammer-CH340C/blob/main/Images/6.jpg)
+
 Merci pour votre attention.
+
 Cordialement,
+
 Siavash Alizadeh
 
