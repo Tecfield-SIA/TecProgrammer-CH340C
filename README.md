@@ -1,4 +1,4 @@
-# TecProgrammer-CH340C
+# TecProgrammer-CH340C V2.0
 Compact USB-C to Serial (UART) adapter with 3.3V/5V logic selection, ideal for microcontroller programming and debugging.
 
 ![STM32f103Cxxx DevBoard](https://github.com/Tecfield-SIA/TecProgrammer-CH340C/blob/main/Images/TecProgrammer.gif)
@@ -49,18 +49,26 @@ __Industry-standard capacitor placement:__
 __Open-Source Hardware:__
 - All design files, schematics, and PCB layouts will be publicly available.
 
-Future Improvements
-•	Zener Diode Protection: The next revision will incorporate a 5.6V Zener diode for enhanced input protection.
-•	ESP32 Auto-Programming Circuit: While DTR and RTS pins are exposed, the current version does not include the required transistor circuit for automatic ESP32 flashing. A future version will integrate this feature.
+________________________________________
 
-Supported Baud Rates
-•	The CH340C chip supports baud rates up to 2 Mbps, ensuring high-speed communication.
+### Future Improvements
+__Zener Diode Protection:__ 
+- The next revision will incorporate a 5.6V Zener diode for enhanced input protection.
+  
+__ESP32 Auto-Programming Circuit:__
+- While DTR and RTS pins are exposed, the current version does not include the required transistor circuit for automatic ESP32 flashing. A future version will integrate this feature.
 
-Licensing
-This project will be released under an open-source license. Recommended options:
-•	MIT License – Permissive, allowing broad use.
-•	GNU GPL – Ensures modifications remain open-source.
-•	Apache License – Adds extra patent protection.
+________________________________________
+
+### Supported Baud Rates
+- The CH340C chip supports baud rates up to 2 Mbps, ensuring high-speed communication.
+
+________________________________________
+
+### Licensing
+- This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
+
+________________________________________
 
 Getting Started
 1.	Connect the board to your computer via USB-C.
