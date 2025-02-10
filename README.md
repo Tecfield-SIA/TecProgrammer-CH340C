@@ -87,6 +87,8 @@ __Contact__
 
 For questions or discussions, feel free to open an issue or reach out via LinkedIn or email me at Tecfield@live.com.
 
+www.linkedin.com/in/siavash-alizadeh-tecfield
+
 ![TecProgrammer-CH340C](https://github.com/Tecfield-SIA/TecProgrammer-CH340C/blob/main/Images/6.jpg)
 
 Merci pour votre attention.
